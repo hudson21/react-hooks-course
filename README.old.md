@@ -1,5 +1,7 @@
 # React Hooks Course
 
+- [Reach UI React](https://reach.tech/)
+
 ### Dataflow in React
 
 ### useRef, useEffect
@@ -118,3 +120,7 @@ const Avatar = ({  }) => {
 
 export default Avatar;
 ```
+
+### Data Loading and Authentication Exercise with useEffect
+
+- https://codesandbox.io/s/data-loading-and-authentication-exercise-with-useeffect-x688o?file=/src/App.js
