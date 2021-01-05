@@ -145,3 +145,8 @@ import { Children } from 'react';
 1. Implicit State: The ones handled by the components internally and are not accesible for the user who is using the APIs
 2. Explicit State: The ones which are handle inside of the components and feed the UI with hooks, state, etc ....
 3. Persistant State: The ones which we want to be saved even when the user is navigating between different components inside of the UI
+
+### React Animations
+
+- https://codesandbox.io/s/react-animations-393oj?file=/src/App.js
+- [React-Spring](https://www.react-spring.io/)
