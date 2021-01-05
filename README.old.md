@@ -127,7 +127,7 @@ export default Avatar;
 
 ### useContext
 
-- React Compound Components
+- React Compound Components Pattern
 - Children module
 
 ```
@@ -135,3 +135,13 @@ import { Children } from 'react';
 ```
 
 - https://codesandbox.io/s/usecontext-react-hook-2xho0
+
+### useReducer and appStateProvider pattern
+
+- https://codesandbox.io/s/usecontext-react-hook-2xho0?file=/src/App.js
+
+### Types of states
+
+1. Implicit State: The ones handled by the components internally and are not accesible for the user who is using the APIs
+2. Explicit State: The ones which are handle inside of the components and feed the UI with hooks, state, etc ....
+3. Persistant State: The ones which we want to be saved even when the user is navigating between different components inside of the UI
